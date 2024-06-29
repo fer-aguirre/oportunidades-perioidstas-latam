@@ -1,9 +1,10 @@
-# Directorio de contactos
+---
+title: Directorio de contactos 👥
 ---
 
 | Nombre | Correo | Teléfono | Temas |
 | --- | --- | --- |
-| x | x | x| x |
-| x | x | x| x |
-| x | x | x| x |
-| x | x | x| x |
+| x | x | x | x |
+| x | x | x | x |
+| x | x | x | x |
+| x | x | x | x |
