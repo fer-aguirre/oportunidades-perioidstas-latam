@@ -131,3 +131,4 @@ cython_debug/
 
 # Secret files
 config.ini
+/.quarto/
