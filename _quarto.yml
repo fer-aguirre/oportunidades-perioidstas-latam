@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    toc: true
+    toc-title: Contents
+    toc-location: right
+    linkcolor: "green"
+    theme: 
+      - zephyr
+      - custom.scss
+website:
+  navbar:
+    search: true
+    logo: "./assets/logo.png"
+    title: Oportunidades para periodistas de Latinoamérica
+    background: "primary"
+  sidebar:
+    style: "docked"
+    background: "success"
+    contents:
+    - href: index.qmd
+      text: Oportunidades actuales
+    - text: "Oportunidades vencidas"
+      url: ./pages/pasadas.qmd
+    - text: "Recursos"
+      url: ./pages/recursos.qmd
+    - text: "Directorio"
+      url: ./pages/directorio.qmd
+  page-footer: 
+    border: false
+    background: dark
+    foreground: "#ffffff"
+    left: >
+      Fernanda Aguirre
+    right: 
+      - icon: github
+        href: https://github.com/fer-aguirre
+      - icon: twitter 
+        href: https://twitter.com/feragru
+      - icon: envelope
+        href: mailto:feraguirre@riseup.net

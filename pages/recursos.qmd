@@ -1,0 +1,13 @@
+
+# Recursos para consultar
+---
+
+## Guides
+
+- [A guide to investigating digital ad libraries](https://digitalinvestigations.substack.com/p/a-guide-to-investigating-digital)
+- [Comtrade: Using trade data to uncover fraud and smuggling](https://medium.com/occrp-unreported/comtrade-using-trade-data-to-uncover-fraud-and-smuggling-f568f8555c2b)
+- [Small teams & solo work: Using a QA process to build confidence in your data stories](https://source.opennews.org/articles/qa-process-confidence-data-stories/)
+
+## Courses
+
+- [Math for Journalists: Guide to writing about numbers accurately, ethically and elegantly, with a quick review of how to calculate the basics](https://www.poynter.org/shop/self-directed-course/numeracy-primer-how-to-write-about-numbers/)
