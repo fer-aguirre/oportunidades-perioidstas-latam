@@ -129,6 +129,5 @@ cython_debug/
 # VS Code
 .vs*
 
-# Secret files
-config.ini
+# Quarto files
 /.quarto/
