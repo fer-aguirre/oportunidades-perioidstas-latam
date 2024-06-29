@@ -1,8 +1,29 @@
 ---
-title: Lista de oportunidades actuales 🚀
+title: "Lista de oportunidades 🚀"
+format: html
+editor: visual
+css: style.css
+include-in-header:
+  - text: |
+      <style>
+      .panel-tabset > .nav-tabs,
+      .panel-tabset > .tab-content {
+        border: none;
+      }
+      </style>
 ---
+
+
+::: {.panel-tabset .nav-pills}
+
+## Actuales
 
 | Oportunidad | Descripción | Deadline |
 | --- | --- | --- |
 | [Bertha Challenge](https://berthafoundation.org/story/bertha-challenge-2025/) | Opportunity for activists and investigative journalists to spend a year working on one pressing social justice challenge and to deliver a body of work at the end of the Fellowship year | 2024-07-12 |
-| [Beca de Investigación Periodística - CIDH ](https://www.corteidh.or.cr/tablas/dialoga/beca.html) | La periodista tendrá la oportunidad de generar un proceso de intercambio académico y profesional con distintas áreas de la Corte Interamericana y el Programa de Estado de Derecho para Latinoamérica de la KAS | 2024-07-17 |
+| [Beca de Investigación Periodística](https://www.corteidh.or.cr/tablas/dialoga/beca.html) | La periodista tendrá la oportunidad de generar un proceso de intercambio académico y profesional con distintas áreas de la Corte Interamericana y el Programa de Estado de Derecho para Latinoamérica de la KAS | 2024-07-17 |
+
+## Vencidas
+
+
+:::

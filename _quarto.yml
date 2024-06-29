@@ -15,16 +15,14 @@ website:
   navbar:
     search: true
     logo: "./assets/logo.png"
-    title: Oportunidades para periodistas de Latinoamérica
+    title: Oportunidades para periodistas en Latinoamérica
     background: "primary"
   sidebar:
     style: "docked"
     background: "success"
     contents:
     - href: index.qmd
-      text: Oportunidades actuales
-    - text: "Oportunidades vencidas"
-      url: ./pages/pasadas.qmd
+      text: Oportunidades
     - text: "Recursos"
       url: ./pages/recursos.qmd
     - text: "Directorio"
@@ -34,7 +32,7 @@ website:
     background: dark
     foreground: "#ffffff"
     left: >
-      Fernanda Aguirre
+      Created by Fernanda Aguirre
     right: 
       - icon: github
         href: https://github.com/fer-aguirre

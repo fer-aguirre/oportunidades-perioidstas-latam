@@ -3,8 +3,8 @@ title: Directorio de contactos 👥
 ---
 
 | Nombre | Correo | Teléfono | Temas |
-| --- | --- | --- |
-| x | x | x | x |
+| --- | --- | --- | --- |
+| Fernanda Aguirre | feraguirre@riseup.net | +52 5541315136 | Datos, investigaciones digitales, OSINT |
 | x | x | x | x |
 | x | x | x | x |
 | x | x | x | x |
