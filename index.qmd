@@ -1,18 +1,18 @@
 ---
 title: "Lista de oportunidades 🚀"
-format: html
-editor: visual
-css: style.css
-include-in-header:
-  - text: |
-      <style>
-      .panel-tabset > .nav-tabs,
-      .panel-tabset > .tab-content {
-        border: none;
-      }
-      </style>
+format: 
+  html:
+    page-layout: full
+    editor: visual
+    include-in-header:
+      - text: |
+          <style>
+          .panel-tabset > .nav-tabs,
+          .panel-tabset > .tab-content {
+            border: none;
+          }
+          </style>
 ---
-
 
 ::: {.panel-tabset .nav-pills}
 
@@ -25,5 +25,7 @@ include-in-header:
 
 ## Vencidas
 
+
+## Empleos
 
 :::
