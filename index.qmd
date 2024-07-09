@@ -23,6 +23,7 @@ format:
 | [Bertha Challenge](https://berthafoundation.org/story/bertha-challenge-2025/) | Opportunity for activists and investigative journalists to spend a year working on one pressing social justice challenge and to deliver a body of work at the end of the Fellowship year | 2024-07-12 |
 | [Sir Harry Evans Global Fellowship ](https://www.durham.ac.uk/sir-harry-evans-memorial-fund/global-fellowship/) | A nine-month fellowship with Durham University and Reuters to undertake an investigative project | 2024-07-15 |
 | [Beca de Investigación Periodística](https://www.corteidh.or.cr/tablas/dialoga/beca.html) | La periodista tendrá la oportunidad de generar un proceso de intercambio académico y profesional con distintas áreas de la Corte Interamericana y el Programa de Estado de Derecho para Latinoamérica de la KAS | 2024-07-17 |
+| [AI Accountability Fellowship](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships) | Support journalists working on in-depth AI accountability stories that examine governments' and corporations’ uses of predictive and surveillance technologies to guide decisions | 2024-08-10 |
 
 ## Vencidas
 
